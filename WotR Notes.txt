@@ -1,0 +1,24 @@
+TO DO:
+Weaken the Aspect of Destruction based on how badly he was beaten on the first fight.
+______________________
+Stats and Growth
+Party: 
+Stats need to be kept within 200 points for first level, tied between Luck, Agility, Defense, Attack, Magic Attack and Magic Defense. Hp counts as 10 per point and mp is 3 per point.
+Must have 1 Fast, 1 Kinda Fast, 4 normal, 1 kinda slow, and 1 slow stat growth.
+______________________
+COLOR CODE TEXT:
+0 = Normal Text
+1 = Faction Text
+2 = Character Name Text
+3 = Area Name Text
+4 = Date Name Text
+5 = Class Name Text
+6 = World Name Text
+7 = Title Text
+______________________
+Extra Notes:
+
+Jeremiah and his Rival, Aranos, call eachother a certain nickname, this is how Jeremiah will know Gideon has connections to Aranos.
+
+Possible Quest: 
+Giant Meat bees are escaping the magical containment, it could cause massive casualties if freed.
